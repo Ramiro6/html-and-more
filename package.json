@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ramiro6/html-and-more/issues"
   },
-  "homepage": "https://github.com/Ramiro6/html-and-more#readme"
+  "homepage": "https://github.com/Ramiro6/html-and-more#readme",
+  "dependencies": {
+    "postcss-cli": "^5.0.0"
+  }
 }
