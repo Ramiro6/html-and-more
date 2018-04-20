@@ -1,0 +1,24 @@
+{
+  "name": "post-css",
+  "version": "1.0.0",
+  "description": "basic post-css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramiro6/html-and-more.git"
+  },
+  "author": "Ramiro Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramiro6/html-and-more/issues"
+  },
+  "homepage": "https://github.com/Ramiro6/html-and-more#readme",
+  "dependencies": {
+    "autoprefixer": "^8.3.0",
+    "postcss-cli": "^5.0.0",
+    "postcss-cssnext": "^3.1.0"
+  }
+}
